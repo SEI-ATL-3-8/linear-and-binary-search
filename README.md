@@ -1,0 +1,10 @@
+# Linear and Binary Search
+These are the two search algorithms you need to know about. You should have a general understanding of them from the myGA hw. Answer these questions about both kinds of search
+1. What is the time complexity of this search?
+1. When is it appropriate to use this kind of search?
+
+### Implement linear search
+This one is pretty straightforward. Challenge yourself to do it a few different ways: using a for loop, an array iterator method, even recursion!
+
+### Implement binary search
+Do a little google searching before beginning this one. This algorithm can be implemented using a loop or recursion.
